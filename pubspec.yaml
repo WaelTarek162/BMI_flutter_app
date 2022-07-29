@@ -1,0 +1,29 @@
+name: bmi_app
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+
+  shared_preferences: ^2.0.15
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_launcher_icons: ^0.9.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/LogoBMI.png"
+
+flutter:
+
+  uses-material-design: true
