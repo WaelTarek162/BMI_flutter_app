@@ -1,16 +1,15 @@
 # bmi_app
 
-A new Flutter project.
+This application to check your body mass index and healthness!
 
-## Getting Started
+can used as a mobile (android or ios) application or web applicaion,
 
-This project is a starting point for a Flutter application.
+Just enter your body information in this screen..
 
-A few resources to get you started if this is your first Flutter project:
+![bmi0](https://user-images.githubusercontent.com/57181709/189366364-dc448c5b-2eee-472d-83d2-13a9e8d456a8.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+And you will get results of your body mass index and healthness in this screen>>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![bmi1](https://user-images.githubusercontent.com/57181709/189366725-35859539-d4b3-4302-add8-f8114cf1ae24.PNG)         ![bmi2](https://user-images.githubusercontent.com/57181709/189366756-d82b1bf4-e7ee-4733-a8a9-dce00206f2cf.PNG)
+
